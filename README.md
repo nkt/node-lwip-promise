@@ -2,7 +2,10 @@ lwip Promise
 ============
 
 Promisified [lwip](https://github.com/EyalAr/lwip) library.
-Thanks @raine. This repo inspired by https://github.com/EyalAr/lwip/issues/63.
+
+Thanks @raine.
+
+This repo inspired by https://github.com/EyalAr/lwip/issues/63.
 
 Installation
 ------------
