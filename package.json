@@ -1,0 +1,52 @@
+{
+  "name": "lwip-promise",
+  "version": "0.1.0",
+  "description": "Promisified lwip library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nkt/node-lwip-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "then",
+    "image",
+    "buffer",
+    "manipulate",
+    "process",
+    "resize",
+    "scale",
+    "rotate",
+    "jpeg",
+    "jpg",
+    "png",
+    "gif",
+    "crop",
+    "blur",
+    "sharpen",
+    "batch",
+    "flip",
+    "mirror",
+    "border",
+    "padding",
+    "hue",
+    "saturation",
+    "lightness",
+    "alpha",
+    "transparency",
+    "fade",
+    "opacity",
+    "contain",
+    "cover"
+  ],
+  "author": "Nikita Gusakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkt/node-lwip-promise/issues"
+  },
+  "homepage": "https://github.com/nkt/node-lwip-promise",
+  "dependencies": {
+    "bluebird": "^2.0.0",
+    "lwip": "*"
+  }
+}
